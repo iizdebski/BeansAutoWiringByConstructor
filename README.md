@@ -1,0 +1,5 @@
+# BeansAutoWiringByConstructor
+
+SpringAutowireByConstructor
+
+autowire="constructor">
